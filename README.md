@@ -7,7 +7,7 @@ Top-like interface for container metrics
 - **Latest release**: `v0.7.7` (2022-03-22)
 - **Last commit**: 2022-08-01
 - **License**: MIT
-- **Stars**: 17839 · **Forks**: 587 · **Open issues**: 252 · **Contributors**: 41
+- **Stars**: 17837 · **Forks**: 587 · **Open issues**: 252 · **Contributors**: 41
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/ctop> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:08:55Z._
+_Last regenerated: 2026-09-09T20:56:51Z._
