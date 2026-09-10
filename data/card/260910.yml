@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.7.7"
   latestRelease: "v0.7.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:26:18Z
+  collectedAt: 2026-09-10T23:36:07Z
 timeline:
   created: 2016-12-27
   lastCommit: 2022-08-01
@@ -86,7 +86,7 @@ total:
   commit: 628
 ---
 path: /home/runner/.x-repo/github.com/bcicen/ctop
-collectedAt: 2026-09-10T18:26:18Z
+collectedAt: 2026-09-10T23:36:08Z
 loc:
   Go:
     code: 4958
