@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9015712,
       "digest": null,
-      "download_count": 11884,
+      "download_count": 11895,
       "created_at": "2022-03-22T12:03:21Z",
       "updated_at": "2022-03-22T12:03:44Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13606047,
       "digest": null,
-      "download_count": 1775374,
+      "download_count": 1776902,
       "created_at": "2022-03-22T12:03:21Z",
       "updated_at": "2022-03-22T12:03:58Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12919651,
       "digest": null,
-      "download_count": 3006,
+      "download_count": 3010,
       "created_at": "2022-03-22T12:03:21Z",
       "updated_at": "2022-03-22T12:03:58Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-arm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13133560,
       "digest": null,
-      "download_count": 565299,
+      "download_count": 566379,
       "created_at": "2022-03-22T12:03:21Z",
       "updated_at": "2022-03-22T12:03:58Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 9217536,
       "digest": null,
-      "download_count": 11941,
+      "download_count": 11955,
       "created_at": "2022-03-22T12:03:45Z",
       "updated_at": "2022-03-22T12:03:57Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-windows-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 537,
       "digest": null,
-      "download_count": 19226,
+      "download_count": 19263,
       "created_at": "2022-03-22T12:03:58Z",
       "updated_at": "2022-03-22T12:03:58Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/sha256sums.txt"
