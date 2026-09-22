@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9015712,
       "digest": null,
-      "download_count": 11981,
+      "download_count": 11991,
       "created_at": "2022-03-22T12:03:21Z",
       "updated_at": "2022-03-22T12:03:44Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13606047,
       "digest": null,
-      "download_count": 1790193,
+      "download_count": 1791243,
       "created_at": "2022-03-22T12:03:21Z",
       "updated_at": "2022-03-22T12:03:58Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12919651,
       "digest": null,
-      "download_count": 3042,
+      "download_count": 3051,
       "created_at": "2022-03-22T12:03:21Z",
       "updated_at": "2022-03-22T12:03:58Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-arm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13133560,
       "digest": null,
-      "download_count": 575832,
+      "download_count": 577157,
       "created_at": "2022-03-22T12:03:21Z",
       "updated_at": "2022-03-22T12:03:58Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13149499,
       "digest": null,
-      "download_count": 996,
+      "download_count": 997,
       "created_at": "2022-03-22T12:03:21Z",
       "updated_at": "2022-03-22T12:03:57Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-linux-ppc64le"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 9217536,
       "digest": null,
-      "download_count": 12065,
+      "download_count": 12076,
       "created_at": "2022-03-22T12:03:45Z",
       "updated_at": "2022-03-22T12:03:57Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/ctop-0.7.7-windows-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 537,
       "digest": null,
-      "download_count": 20179,
+      "download_count": 20212,
       "created_at": "2022-03-22T12:03:58Z",
       "updated_at": "2022-03-22T12:03:58Z",
       "browser_download_url": "https://github.com/bcicen/ctop/releases/download/v0.7.7/sha256sums.txt"
@@ -294,14 +294,14 @@
   "body": "* Adds uptime column\r\n* CPU bar color thresholds update\r\n* Updated container status icons\r\n* Optimize health status event handling\r\n* Adds ppc64le build\r\n* Adds \"open in browser\" menu option\r\n* Fix CPU count estimation",
   "reactions": {
     "url": "https://api.github.com/repos/bcicen/ctop/releases/62440031/reactions",
-    "total_count": 46,
+    "total_count": 47,
     "+1": 7,
     "-1": 0,
     "laugh": 0,
     "hooray": 32,
     "confused": 0,
     "heart": 4,
-    "rocket": 3,
+    "rocket": 4,
     "eyes": 0
   }
 }
